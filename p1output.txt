@@ -1,1 +1,9 @@
+ gcc -g p1original.c 
+ ./a.out
+Enter the fraction number
+1
+3
+2
+5
+addition of 1/3 + 2/5 = 11/15 
 
